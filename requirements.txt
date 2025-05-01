@@ -1,0 +1,6 @@
+panel
+plotly
+matplotlib
+seaborn
+pandas
+numpy
