@@ -5,12 +5,12 @@ This project built an online dashboard to show the pathway flowing from various 
 
 ## How to Install and Run the Dashboard
 ### Dependencies:
-  panel >= 1.5.0
-  matplotlib >= 3.9.2
-  plotly >= 5.22.0
-  seaborn >= 0.13.2
-  pandas >= 2.2.2
-  numpy >= 1.26.4
+  - panel >= 1.5.0
+  - matplotlib >= 3.9.2
+  - plotly >= 5.22.0
+  - seaborn >= 0.13.2
+  - pandas >= 2.2.2
+  - numpy >= 1.26.4
 ### Instructions:
   1. Make sure all libraries in the above dependency list are installed to your current working environment
   2. Download the csv file and two py files from this repository, in which the csv file contains the data while the py files contain the python code to launch the online dashboard
