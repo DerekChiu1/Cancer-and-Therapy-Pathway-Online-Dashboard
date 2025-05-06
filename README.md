@@ -2,7 +2,12 @@
 
 ## Project Description
 This project built an online dashboard to show the pathway flowing from various cancers to their corresponding therapies, with patient data including age and gender incorporated. This allows users to identify the characteristics of patients for each specific cancer, find the most recommended therapy for different diseases, and compare the difference in distribution of patients' age and gender between different cancers. This dashboard contains interactive visualizations like Sankey diagrams and tables, and static ones like bar plot and box plot. The interactive diagrams can take in real time user input from checkbox, sliders, and dropdown menu on the dashboard side bar, then the diagrams are re-rendered and manipulated based on users' desire to gain insights.
-![Uploading 20230601_173506.jpg…]()
+
+## Dashboard Images
+![Sankey diagram from Network tab](Dashboard images & videos/Network.PNG)
+![Data table from Data Table tab](Dashboard images & videos/Data_table.PNG)
+![Box plot and pie chart from Dataset Analysis tab](Dashboard images & videos/Analysis_plot12.PNG)
+![Horizontal stacked bar charts from Dataset Analysis tab](Dashboard images & videos/Analysis_plot34.PNG)
 
 ## How to Install and Run the Dashboard
 ### Dependencies:
